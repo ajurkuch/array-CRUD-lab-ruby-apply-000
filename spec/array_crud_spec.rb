@@ -65,8 +65,8 @@ describe "retrieve_last_element_from_array" do
   end
 end
 
-
-
+def create_an_array(array)
+end
 
 
 
